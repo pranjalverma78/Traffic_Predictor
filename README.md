@@ -1,3 +1,3 @@
 # Traffic_Predictor
 
-Used stacked GCN-LSTM for Time-Series prediction of traffic on roads using their past traffic records.
+Time series prediction of traffic on roads using stacked GCN-LSTM model on past traffic records of roads.
